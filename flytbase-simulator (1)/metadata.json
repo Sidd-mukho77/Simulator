@@ -1,0 +1,6 @@
+{
+  "name": "Flytbase Simulator",
+  "description": "A dashboard to plan and simulate drone flight paths, featuring a 3D map, a 3D path graph, and an AI assistant that detects and suggests solutions for potential collisions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
